@@ -1,0 +1,20 @@
+# Godot
+.godot/
+.import/
+/android/
+
+# Calibration output written into a project
+/calibration-report-*.md
+/calibration-notes.md
+
+# Secrets and local config
+.env
+.env.*
+*.key
+opencode.local.json
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
